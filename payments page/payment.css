@@ -1,0 +1,127 @@
+body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh; 
+    background: linear-gradient(315deg, #13142e 0%, #5886b6 74%);
+
+}
+.container {
+    width: 50%;
+    margin: 0 auto;
+    border: 1px solid #ccc;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3);
+    padding: 20px;
+    border-radius: 30px;
+    background-color: white;
+}
+
+h1 {
+    text-align: center;
+    color: black;
+}
+
+.form-group {
+    margin-bottom: 10px;
+    
+}
+
+label {
+    display: inline-block;
+    width: 150px;
+    text-align: right;
+    margin-right: 10px;
+    color: black;
+}
+
+input[type="text"], textarea, select {
+    width: 100%;
+    padding: 5px;
+    box-sizing: border-box;
+    border: 1px solid rgb(202, 202, 202);
+    border-radius: 3px;
+}
+
+textarea {
+    height: 30px;
+    border-radius: 3px;
+}
+
+select {
+    appearance: none;
+    -webkit-appearance: none;
+    background-image: none;
+    background-color: #fff;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+    padding-right: 30px;
+}
+
+select::-ms-expand {
+    display: none;
+}
+
+ul {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+    color: #858585;
+}
+
+li {
+    margin-bottom: 5px;
+}
+
+li strong {
+    color: #f00;
+}
+
+button[type="submit"] {
+    background-color: #000000;
+    color: #fff;
+    border: none;
+    border-radius: 30px;
+    padding: 10px 70px;
+    cursor: pointer;
+    margin-top: 10px;
+}
+
+button[type="submit"]:hover {
+    background-color: #88b4ff;
+}
+.payment-options-group {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.payment-options-group label {
+    display: flex;
+    align-items: center;
+}
+
+.payment-options-group input[type="radio"] {
+    margin-right: 10px;
+}
+.form-group label {
+    text-align: left;
+}
+body {
+    background-color: #fff;
+}
+
+.container {
+    width: 50%;
+    margin: 0 auto;
+    border: 1px solid #ccc;
+    padding: 20px;
+    box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.1);
+}
+
+.form-group {
+    margin-bottom: 20px;
+}
+
+label {
+    display: block;
+}
