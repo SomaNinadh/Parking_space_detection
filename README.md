@@ -12,14 +12,23 @@ Features:
 >Convenient Payments: Pay with cash or cashless methods at exit.
 
 Implementation:
+
 >YOLOv8 Algorithm: Powers real-time space detection.
+
 >Live Camera Feeds Integration: Seamless updates from cameras.
+
 >Intuitive User Interface: Simple, visual display of available spaces.
+
 Benefits:
+
 >Efficiency Boost: Streamlines parking, saving time.
+
 >Traffic Reduction: Guides users to open spots, easing congestion.
+
 >No Wait Times: Smooth exits without long lines.
+
 Our goal is to make parking hassle-free, efficient, and user-friendly for everyone.
+
 
 
 Tech stack used : 
