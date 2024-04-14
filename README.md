@@ -6,8 +6,11 @@ Title : ParkEasy
 Description of the hack : 
 Our project simplifies parking with real-time updates on space availability. Users scan a QR code upon entry to see open spots instantly. Exiting, they can pay with cash or cashless methods, reducing wait times and congestion.
 Features:
+
 >Instant Space Availability: View open spots upon QR scan.
+
 >Convenient Payments: Pay with cash or cashless methods at exit.
+
 Implementation:
 >YOLOv8 Algorithm: Powers real-time space detection.
 >Live Camera Feeds Integration: Seamless updates from cameras.
