@@ -46,8 +46,11 @@ Installation steps:
 Back-end python:
 
 >First download the 3 files (finalparking.ipynb, parkingspace.zip and coco.txt)
+
 >Extract the files fromt the parkingspace.zip -> We will get a video file
+
 >Either keep all the files in the same folder . If you are not able to do it, copy the path of the parking1.mp4 and paste the path in the 19th line instead of 'parking1.mp4'
+
 >Make sure that all the libraries are downloaded if not you can download it by using the following commands:
  pip install opencv-python
  pip install pandas
